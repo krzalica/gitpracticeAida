@@ -1,7 +1,7 @@
 #Partner 1: Aida Krzalic
 #Partner 2: Kim Promthaw
 #########################
-#Assignment Name: GitHub Practice
+#Assignment Name: GitHub Practice - 02/25/20
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
     pass
