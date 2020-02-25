@@ -1,5 +1,5 @@
-#Partner 1: Aida
-#Partner 2: Kim
+#Partner 1: Aida Krzalic
+#Partner 2: Kim Promthaw
 #########################
 
 def getNRandom(n):
